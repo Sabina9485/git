@@ -1,1 +1,1 @@
-title = "TaskFlow Backend"
+title = "TaskFlow Operator Panel (backend)"
